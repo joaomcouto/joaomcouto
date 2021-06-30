@@ -1,7 +1,8 @@
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomcouto?theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomcouto&hide=jupyter%20notebook,matlab?theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
+### Github stats
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomcouto&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomcouto&hide=jupyter%20notebook,matlab&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **joaomcouto/joaomcouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
